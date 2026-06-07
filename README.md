@@ -1,6 +1,6 @@
+# 🥗 NutriShield AI — Instant Food Safety & Guidance
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nutrishield-ai-project-rmefzpvbexn5jkftsmrts3.streamlit.app/)
-# NutriShield AI — Instant Food Safety & Guidance
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://nutrishield-ai-project-rmefzpvbexn5jkftsmrts3.streamlit.app/)
 
 ⚡ Transform complex chemical labels into instant, actionable consumer safety verdicts.
 
@@ -55,9 +55,5 @@ Run the app:
 streamlit run app.py
 ```
 
-Open http://localhost:8501
-
 Notes: use the in-app **Try with a Sample Product** demo to present without consuming API quota.
-
-Want a 3-line elevator pitch for slides? I can produce that next.
 
