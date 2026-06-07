@@ -55,5 +55,3 @@ Run the app:
 streamlit run app.py
 ```
 
-Notes: use the in-app **Try with a Sample Product** demo to present without consuming API quota.
-
