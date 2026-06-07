@@ -65,7 +65,7 @@ else:
 
 if api_key:
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-3.5-flash", system_instruction=GEMINI_SYSTEM_INSTRUCTION)
+    model = genai.GenerativeModel("gemini-3.1-flash-lite", system_instruction=GEMINI_SYSTEM_INSTRUCTION)
 else:
     st.error("🔑 API Key not found! Please configure GOOGLE_API_KEY in your Streamlit Advanced Settings Secrets.")
 
